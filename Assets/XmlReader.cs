@@ -35,20 +35,21 @@ public class XmlReader : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        load();
-
         playerPosition = GameObject.FindGameObjectWithTag("Player").transform;
 
         if ((distance() < size) && (this.transform.childCount < actualLength))
         {
             for (int n = 0; n < actualLength; n++)
             {
+                load();
+
                 // Instantiate object
-                Instantiate(obj[n], this.transform);
+                GameObject inst = Instantiate(obj[n], this.transform);
 
                 // set new position & rotation
-                transform.GetChild(n).transform.localPosition = positionObj;
-                transform.GetChild(n).transform.eulerAngles = rotationObj;
+                inst.transform.localPosition = positionObj;
+                inst.transform.localEulerAngles = rotationObj;
+                inst.transform.localEulerAngles = rotationObj;
             }
         }
         else if ((distance() > size) && (this.transform.childCount > 0))
@@ -75,8 +76,8 @@ public class XmlReader : MonoBehaviour
 
         item.name = current.transform.name;
 
-        item.position = current.transform.position;
-        item.rotation = current.transform.eulerAngles;
+        item.position = current.transform.localPosition;
+        item.rotation = current.transform.localEulerAngles;
 
         GameObject.FindGameObjectWithTag("DataManager").GetComponent<DataManager>().Save(path, item);
     }

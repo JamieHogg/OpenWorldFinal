@@ -9,7 +9,6 @@ public class MoveChunks : MonoBehaviour {
     // Use this for initialization
     void Start () {
         playerPosition = GameObject.FindGameObjectWithTag("Player");
-
     }
 
     // Update is called once per frame

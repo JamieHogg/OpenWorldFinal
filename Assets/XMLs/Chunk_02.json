@@ -1,10 +1,10 @@
 {
     "name": "Road_Type_3(Clone)",
-  "position": {
-    "x": 0.0,
-    "y": 0.0,
-    "z": 0.0
-  },
+    "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
     "rotation": {
         "x": 0.0,
         "y": 270.0,
