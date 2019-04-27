@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWorldGame - json working", "Assembly-CSharp.csproj", "{D7B4EFA1-9593-6498-8625-9E8C1D5CE379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWorldGame - json working", "Assembly-CSharp-Editor.csproj", "{A179AA34-941E-5997-ACBB-CC9A3FBA14C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B4EFA1-9593-6498-8625-9E8C1D5CE379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B4EFA1-9593-6498-8625-9E8C1D5CE379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B4EFA1-9593-6498-8625-9E8C1D5CE379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B4EFA1-9593-6498-8625-9E8C1D5CE379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A179AA34-941E-5997-ACBB-CC9A3FBA14C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A179AA34-941E-5997-ACBB-CC9A3FBA14C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A179AA34-941E-5997-ACBB-CC9A3FBA14C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A179AA34-941E-5997-ACBB-CC9A3FBA14C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

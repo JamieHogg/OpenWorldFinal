@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Thing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>White_Plane</name>
+  <positionX>0</positionX>
+  <positionY>0</positionY>
+  <positionZ>0</positionZ>
+  <rotationX>0</rotationX>
+  <rotationY>0</rotationY>
+  <rotationZ>0</rotationZ>
+</Thing>

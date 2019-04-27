@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<World>
+  <Chunk_0>
+    <Object>
+      <Number>0</Number>
+      <Position>0,1,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_0>
+
+  <Chunk_1>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_1>
+
+  <Chunk_2>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_2>
+
+  <Chunk_3>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+
+    <Object>
+      <Number>3</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_3>
+
+  <Chunk_4>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_4>
+
+  <Chunk_5>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_5>
+
+
+  <Chunk_6>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_6>
+
+  <Chunk_7>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_7>
+
+  <Chunk_8>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_8>
+
+  <Chunk_9>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_9>
+
+  <Chunk_10>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_10>
+
+  <Chunk_11>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_11>
+
+  <Chunk_12>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_12>
+
+  <Chunk_13>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_13>
+
+  <Chunk_14>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_14>
+
+  <Chunk_15>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_15>
+
+  <Chunk_16>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_16>
+
+  <Chunk_17>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_17>
+
+  <Chunk_18>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_18>
+
+  <Chunk_19>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_19>
+
+  <Chunk_20>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_20>
+
+  <Chunk_21>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_21>
+
+  <Chunk_22>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_22>
+
+  <Chunk_23>
+    <Object>
+      <Number>1</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_23>
+
+  <Chunk_24>
+    <Object>
+      <Number>0</Number>
+      <Position>0,0,0</Position>
+      <Rotation>0,0,0</Rotation>
+    </Object>
+  </Chunk_24>
+</World>
