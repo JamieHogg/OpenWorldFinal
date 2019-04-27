@@ -1,5 +1,5 @@
 {
-    "name": "Black_Plane(Clone)",
+    "name": "Road_Type_1(Clone)",
     "position": {
         "x": -20.0,
         "y": 0.0,
@@ -7,7 +7,7 @@
     },
     "rotation": {
         "x": 0.0,
-        "y": 0.0,
+        "y": 90.0,
         "z": 0.0
     }
 }

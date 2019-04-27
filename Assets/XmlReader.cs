@@ -26,7 +26,7 @@ public class XmlReader : MonoBehaviour
     void Start()
     {
         fileName = this.name;
-        obj = new GameObject[3];
+        obj = new GameObject[4];
 
         //load();
 
@@ -58,8 +58,8 @@ public class XmlReader : MonoBehaviour
 
         if (this.transform.childCount > 0)
         {
-            save();
         }
+        //save();
     }
 
     private float distance()

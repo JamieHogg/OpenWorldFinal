@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D7B4EFA1-9593-6498-8625-9E8C1D5CE379}</ProjectGuid>
+    <ProjectGuid>{A25E8166-CF2B-D50E-6CB5-F746123C8CB0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,6 +67,7 @@
      <Compile Include="Assets\FollowPlayerImproved.cs" />
      <Compile Include="Assets\Items.cs" />
      <Compile Include="Assets\Load_Save.cs" />
+     <Compile Include="Assets\nb.cs" />
      <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\PrefabLoader.cs" />
      <Compile Include="Assets\Thing.cs" />
@@ -97,16 +98,16 @@
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
      <None Include="Assets\Avatars\DynamicBone\ReadMe.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Program Files/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A179AA34-941E-5997-ACBB-CC9A3FBA14C4}</ProjectGuid>
+    <ProjectGuid>{E6BEA616-BAC3-4B3B-4706-9C385189A45B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -55,16 +55,16 @@
   <ItemGroup>
      <Compile Include="Assets\Materials\Cubed&apos;s Unity Shaders\Editor\FlatLitToonInspector.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Assignments Uni Year 3/OpenWorldGame - json working/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Program Files/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -351,7 +351,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{D7B4EFA1-9593-6498-8625-9E8C1D5CE379}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{A25E8166-CF2B-D50E-6CB5-F746123C8CB0}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

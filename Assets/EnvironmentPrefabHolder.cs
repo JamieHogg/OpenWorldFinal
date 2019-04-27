@@ -25,6 +25,16 @@ public class EnvironmentPrefabHolder : MonoBehaviour {
                 return 0;
             case "Black_Plane(Clone)":
                 return 1;
+            case "Road_Type_1(Clone)":
+                return 2;
+            case "Road_Type_2(Clone)":
+                return 3;
+            case "Road_Type_3(Clone)":
+                return 4;
+            case "Road_Type_4(Clone)":
+                return 5;
+            case "Grass(Clone)":
+                return 6;
         }
         return 0;
     }
