@@ -67,6 +67,7 @@
      <Compile Include="Assets\FollowPlayerImproved.cs" />
      <Compile Include="Assets\Items.cs" />
      <Compile Include="Assets\Load_Save.cs" />
+     <Compile Include="Assets\MoveChunks.cs" />
      <Compile Include="Assets\nb.cs" />
      <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\PrefabLoader.cs" />

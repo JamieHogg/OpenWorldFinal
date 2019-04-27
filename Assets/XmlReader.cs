@@ -10,7 +10,7 @@ public class XmlReader : MonoBehaviour
     Items item = new Items();
 
     private Transform playerPosition;
-    private int size = 15;
+    private int size = 20;
     private GameObject[] obj;
 
     public string fileName;
@@ -47,7 +47,7 @@ public class XmlReader : MonoBehaviour
                 Instantiate(obj[n], this.transform);
 
                 // set new position & rotation
-                transform.GetChild(n).transform.position = positionObj;
+                transform.GetChild(n).transform.localPosition = positionObj;
                 transform.GetChild(n).transform.eulerAngles = rotationObj;
             }
         }
