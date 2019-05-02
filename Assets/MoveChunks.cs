@@ -13,8 +13,6 @@ public class MoveChunks : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        Debug.Log(checkZ());
-
         if (checkX() > 20)
         {
             this.transform.position += new Vector3(50, 0, 0);

@@ -5,8 +5,6 @@ using System.IO;
 
 public class DataManager : MonoBehaviour
 {
-    //Items item;
-
     public void Save(string path, Items item)
     {
         string jsonString = JsonUtility.ToJson(item, true);
