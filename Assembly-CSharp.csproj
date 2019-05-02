@@ -53,51 +53,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AI.cs" />
-     <Compile Include="Assets\AudioScript.cs" />
-     <Compile Include="Assets\Avatars\DynamicBone\Demo\DynamicBoneDemo1.cs" />
-     <Compile Include="Assets\Avatars\DynamicBone\Scripts\DynamicBone.cs" />
-     <Compile Include="Assets\Avatars\DynamicBone\Scripts\DynamicBoneCollider.cs" />
-     <Compile Include="Assets\Avatars\DynamicBone\Scripts\DynamicBoneColliderBase.cs" />
-     <Compile Include="Assets\Avatars\DynamicBone\Scripts\DynamicBonePlaneCollider.cs" />
-     <Compile Include="Assets\CameraControllerthing.cs" />
-     <Compile Include="Assets\Chunks.cs" />
-     <Compile Include="Assets\DataManager.cs" />
-     <Compile Include="Assets\EnvironmentPrefabHolder.cs" />
-     <Compile Include="Assets\FollowPlayerImproved.cs" />
-     <Compile Include="Assets\Items.cs" />
-     <Compile Include="Assets\Load_Save.cs" />
-     <Compile Include="Assets\MoveChunks.cs" />
-     <Compile Include="Assets\nb.cs" />
-     <Compile Include="Assets\Player.cs" />
-     <Compile Include="Assets\PrefabLoader.cs" />
-     <Compile Include="Assets\Thing.cs" />
-     <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
-     <Compile Include="Assets\UnityChan\Scripts\FaceUpdate.cs" />
-     <Compile Include="Assets\UnityChan\Scripts\IdleChanger.cs" />
-     <Compile Include="Assets\UnityChan\Scripts\SceneLoader.cs" />
-     <Compile Include="Assets\UnityChan\Scripts\ThirdPersonCamera.cs" />
-     <Compile Include="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
-     <Compile Include="Assets\XmlReader.cs" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
-     <None Include="Assets\Materials\Cubed&apos;s Unity Shaders\Shaders\Simple Gradient Sky.shader" />
-     <None Include="Assets\UnityChan\license.txt" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
-     <None Include="Assets\Materials\Cubed&apos;s Unity Shaders\Shaders\Unit Shadowed.shader" />
-     <None Include="Assets\Materials\Cubed&apos;s Unity Shaders\Shaders\Flat Lit Toon Distance Fade.shader" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
-     <None Include="Assets\Materials\Cubed&apos;s Unity Shaders\Shaders\Flat Lit Toon.shader" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
-     <None Include="Assets\UnityChan\Stage\Shader\AlphaMask.shader" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
-     <None Include="Assets\Materials\Cubed&apos;s Unity Shaders\Shaders\Flat Lit Toon Rainbow.shader" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
-     <None Include="Assets\test.xml" />
-     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
-     <None Include="Assets\Avatars\DynamicBone\ReadMe.txt" />
+     <Compile Include="Assets\Scripts\AI.cs" />
+     <Compile Include="Assets\Scripts\CameraControllerthing.cs" />
+     <Compile Include="Assets\Scripts\DataManager.cs" />
+     <Compile Include="Assets\Scripts\EnvironmentPrefabHolder.cs" />
+     <Compile Include="Assets\Scripts\Items.cs" />
+     <Compile Include="Assets\Scripts\JSONReader.cs" />
+     <Compile Include="Assets\Scripts\MoveChunks.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/Assignments Uni Year 3/OpenWorldFinal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
